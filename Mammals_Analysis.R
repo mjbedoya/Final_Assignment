@@ -8,4 +8,4 @@ colnames(mammal_sizes) <- c("continent", "status", "order",
                             "family", "genus", "species", "log_mass", "combined_mass", 
                             "reference")
 head(mammal_sizes)
-summary(mammal_sizes)
+summary(mammal_sizes) 
